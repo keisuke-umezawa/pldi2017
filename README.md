@@ -60,7 +60,8 @@
 
 ### Instruction Punning: Lightweight Instrumentation for x86-64
 
-### Low Overhead Dynamic Binary Translation on ARM (＊＊Distigwish＊＊)
+### Low Overhead Dynamic Binary Translation on ARM (＊＊ Distigwish ＊＊)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1495.JPG)
 
 ### Skeletal Program Enumeration for Rigorous Compiler Testing
 
@@ -101,7 +102,8 @@
 ### Verifying invariants of lock-free data structures with rely-guarantee and refinement type
 
 ## Functional Programming
-### Compiling without continuations (＊＊Distigwish＊＊)
+### Compiling without continuations (＊＊ Distigwish ＊＊)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1538.JPG)
 
 ### FunTAL: Reasonably Mixing a Functional Language with Assembly
 
@@ -111,6 +113,8 @@
 
 ## Correctness
 ### Repairing Sequential Consistency in C/C++11 (＊＊Distigwish＊＊)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1543.JPG)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1542.JPG)
 
 ### ming Undefined Behavior in LLVM
 
