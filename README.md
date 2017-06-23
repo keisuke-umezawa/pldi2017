@@ -19,8 +19,12 @@
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1475.JPG)
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1476.JPG)
 
+- 小さいmoduler codeの組み合わせで複雑な処理を表現したい。しかし、performanceが悪くなってしまう。生成されたBSTをfuseする仕組みを作って効率的なコード生成を行う。
+
 ### Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1477.JPG)
+
+- 三角不等式による[演算子強度低減](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E5%AD%90%E5%BC%B7%E5%BA%A6%E4%BD%8E%E6%B8%9B)の最適化を行う
 
 ### ALIVE-INFER: Data-Driven Precondition Inference for Peephole Optimizations in LLVM
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1478.JPG)
@@ -46,6 +50,8 @@
 ### BigFoot: Static Check Placement for Dynamic Race Detection ( **Best Artifact** )
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1485.JPG)
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1486.JPG)
+
+- メモリアクセスをする箇所全てでcheckをしていたが、静的解析を先に行うことでcheckする箇所を減らした。
 
 ### Dynamic Race Prediction in Linear Time
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1487.JPG)
