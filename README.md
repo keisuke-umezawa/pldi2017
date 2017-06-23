@@ -13,6 +13,7 @@
 ## Compiler Optimizations
 ### Cache Locality Optimization for Recursive Programs
 
+
 ### Fusing Effectful Comprehensions
 
 ### Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction
@@ -74,3 +75,40 @@
 ### Control-Flow Recovery from Partial Failure Reports
 
 ### Rigorous Analysis of Software Countermeasures against Cache Attacks
+
+## Parallelization and Concurrency 
+### Synthesis of Divide and Conquer Parallelism for Loops
+
+### Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates
+
+### Gradual Synthesis for Static Parallelization
+
+### Verifying invariants of lock-free data structures with rely-guarantee and refinement type
+
+## Functional Programming
+### Compiling without continuations (＊＊Distigwish＊＊)
+
+### FunTAL: Reasonably Mixing a Functional Language with Assembly
+
+### HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics
+
+### Levity Polymorphism
+
+## Correctness
+### Repairing Sequential Consistency in C/C++11 (＊＊Distigwish＊＊)
+
+### ming Undefined Behavior in LLVM
+
+## Verified Computation
+### A Formally Verified Compiler for Lustre
+
+### Flatten and Conquer (A Framework for Efficient Analysis of String Constraints)
+
+## Systems and Performance
+### Low-Synchronization, Mostly Lock-Free, Elastic Scheduling for Streaming Runtimes
+
+### Practical Partial Evaluation for High-Performance Dynamic Language Runtimes
+
+### Responsive Parallel Computation: Bridging Competitive and Cooperative Threading
+
+### StreamQRE: Modular Specification and Efficient Evaluation of Quantitative Queries over Streaming Data
