@@ -27,7 +27,7 @@
 
 ## Language Implementation
 ### Bringing the Web up to Speed with WebAssembly ( ＊＊ Distigwish ＊＊ )
-[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1479.JPG)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1479.JPG)
 
 ### Miniphases: Compilation using Modular and Efficient Tree Transformations
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1480.JPG)
@@ -43,7 +43,7 @@
 ### BARRACUDA: Binary-level Analysis of Runtime RAces in CUDA programs
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1484.JPG)
 
-### BigFoot: Static Check Placement for Dynamic Race Detection (**Best Artifact**)
+### BigFoot: Static Check Placement for Dynamic Race Detection ( **Best Artifact** )
 ![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1485.JPG)
 ![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1486.JPG)
 
@@ -114,7 +114,7 @@
 ## Correctness
 ### Repairing Sequential Consistency in C/C++11 (＊＊Distigwish＊＊)
 ![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1543.JPG)
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1542.JPG)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1544.JPG)
 
 ### ming Undefined Behavior in LLVM
 
