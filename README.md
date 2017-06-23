@@ -53,53 +53,92 @@
 
 ### Systematic Black-Box Analysis of Collaborative Web Applications
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1489.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1490.JPG)
 
 ## Dynamic Analysis and Testing
 
 ### Achieving High Coverage for Floating-point Code via Unconstrained Programming
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1491.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1492.JPG)
 
 ### Instruction Punning: Lightweight Instrumentation for x86-64
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1493.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1494.JPG)
 
 ### Low Overhead Dynamic Binary Translation on ARM (＊＊ Distigwish ＊＊)
 ![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1495.JPG)
 
 ### Skeletal Program Enumeration for Rigorous Compiler Testing
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1496.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1497.JPG)
 
 ## Static Analysis
 ### Compositional Recurrence Analysis Revisited
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1498.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1499.JPG)
 
 ### Context Transformations for Pointer Analysis
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1500.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1501.JPG)
 
 ### Efficient and Precise Points-to Analysis: Modeling the Heap by Merging Equivalent Automata
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1502.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1503.JPG)
 
 ### Static Deadlock Detection for Asynchronous C# Programs
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1504.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1505.JPG)
 
 ## Synthesis
 ### Component-based Synthesis of Table Consolidation and Transformation Tasks from Examples
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1512.JPG)
 
 ### Network Configuration Synthesis with Abstract Topologies
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1513.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1514.JPG)
 
 ### Synthesizing Highly Expressive SQL Queries from Input-Output Examples
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1515.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1516.JPG)
 
 ### Synthesizing Memory Models from Framework Sketches and Litmus Tests
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1517.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1518.JPG)
 
 ## Static Analysis and Security
 ### Decomposition Instead of Self-Composition for Proving the Absence of Timing Channels
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1519.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1520.JPG)
 
 ### Automatic Program Inversion using Symbolic Transducers
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1521.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1522.JPG)
 
 ### Control-Flow Recovery from Partial Failure Reports
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1523.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1524.JPG)
 
 ### Rigorous Analysis of Software Countermeasures against Cache Attacks
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1525.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1526.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1527.JPG)
 
 ## Parallelization and Concurrency 
 ### Synthesis of Divide and Conquer Parallelism for Loops
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1528.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1529.JPG)
 
 ### Futhark: Purely Functional GPU-programming with Nested Parallelism and In-place Array Updates
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1530.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1531.JPG)
 
 ### Gradual Synthesis for Static Parallelization
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1532.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1533.JPG)
 
 ### Verifying invariants of lock-free data structures with rely-guarantee and refinement type
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1534.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1535.JPG)
 
 ## Functional Programming
 ### Compiling without continuations (＊＊ Distigwish ＊＊)
@@ -107,9 +146,14 @@
 
 ### FunTAL: Reasonably Mixing a Functional Language with Assembly
 
+
 ### HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1539.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1540.JPG)
 
 ### Levity Polymorphism
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1541.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1542.JPG)
 
 ## Correctness
 ### Repairing Sequential Consistency in C/C++11 (＊＊Distigwish＊＊)
@@ -117,9 +161,12 @@
 ![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1544.JPG)
 
 ### ming Undefined Behavior in LLVM
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1545.JPG)
 
 ## Verified Computation
 ### A Formally Verified Compiler for Lustre
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1546.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1547.JPG)
 
 ### Flatten and Conquer (A Framework for Efficient Analysis of String Constraints)
 
