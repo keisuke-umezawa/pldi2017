@@ -27,7 +27,7 @@
 
 ## Language Implementation
 ### Bringing the Web up to Speed with WebAssembly ( ＊＊ Distigwish ＊＊ )
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1479.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1479.JPG)
 
 ### Miniphases: Compilation using Modular and Efficient Tree Transformations
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1480.JPG)
@@ -44,8 +44,8 @@
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1484.JPG)
 
 ### BigFoot: Static Check Placement for Dynamic Race Detection ( **Best Artifact** )
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1485.JPG)
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1486.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1485.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1486.JPG)
 
 ### Dynamic Race Prediction in Linear Time
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1487.JPG)
@@ -66,7 +66,7 @@
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1494.JPG)
 
 ### Low Overhead Dynamic Binary Translation on ARM (＊＊ Distigwish ＊＊)
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1495.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1495.JPG)
 
 ### Skeletal Program Enumeration for Rigorous Compiler Testing
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1496.JPG)
@@ -142,7 +142,7 @@
 
 ## Functional Programming
 ### Compiling without continuations (＊＊ Distigwish ＊＊)
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1538.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1538.JPG)
 
 ### FunTAL: Reasonably Mixing a Functional Language with Assembly
 
@@ -157,8 +157,8 @@
 
 ## Correctness
 ### Repairing Sequential Consistency in C/C++11 (＊＊Distigwish＊＊)
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1543.JPG)
-![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1544.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1543.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1544.JPG)
 
 ### ming Undefined Behavior in LLVM
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1545.JPG)
