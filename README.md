@@ -26,7 +26,7 @@
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1478.JPG)
 
 ## Language Implementation
-### Bringing the Web up to Speed with WebAssembly (＊＊Distigwish＊＊)
+### Bringing the Web up to Speed with WebAssembly ( ＊＊ Distigwish ＊＊ )
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1479.JPG)
 
 ### Miniphases: Compilation using Modular and Efficient Tree Transformations
