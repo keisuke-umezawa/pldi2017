@@ -9,35 +9,50 @@
 ### Synthesizing Program Input Grammars
 
 ### Compiling Markov Chain Monte Carlo Algorithms for Probabilistic Modeling
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1473.JPG)
 
 ## Compiler Optimizations
 ### Cache Locality Optimization for Recursive Programs
-
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1474.JPG)
 
 ### Fusing Effectful Comprehensions
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1475.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1476.JPG)
 
 ### Generalizations of the Theory and Deployment of Triangular Inequality for Compiler-Based Strength Reduction
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1477.JPG)
 
 ### ALIVE-INFER: Data-Driven Precondition Inference for Peephole Optimizations in LLVM
-
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1478.JPG)
 
 ## Language Implementation
 ### Bringing the Web up to Speed with WebAssembly (＊＊Distigwish＊＊)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1479.JPG)
 
 ### Miniphases: Compilation using Modular and Efficient Tree Transformations
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1480.JPG)
 
 ### Proactive and Adaptive Energy-Aware Programming with Mixed Typechecking
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1481.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1482.JPG)
 
 ### Simple, fast and safe manual memory management
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1483.JPG)
 
 ## Concurrency Analysis
 ### BARRACUDA: Binary-level Analysis of Runtime RAces in CUDA programs
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1484.JPG)
 
 ### BigFoot: Static Check Placement for Dynamic Race Detection (**Best Artifact**)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1485.JPG)
+![short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1486.JPG)
 
 ### Dynamic Race Prediction in Linear Time
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1487.JPG)
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1488.JPG)
 
 ### Systematic Black-Box Analysis of Collaborative Web Applications
+[short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1489.JPG)
 
 ## Dynamic Analysis and Testing
 
