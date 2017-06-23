@@ -15,6 +15,9 @@
 ### Cache Locality Optimization for Recursive Programs
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1474.JPG)
 
+- TODO
+- function recurresion とかspawnを使わないで、thread内で次の計算を呼び出すようにすると、同じ軽量thread内で呼び出すことになるので、cache hit 率が高くなる。
+
 ### Fusing Effectful Comprehensions
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1475.JPG)
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1476.JPG)
@@ -28,6 +31,8 @@
 
 ### ALIVE-INFER: Data-Driven Precondition Inference for Peephole Optimizations in LLVM
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1478.JPG)
+
+- 局所最適化
 
 ## Language Implementation
 ### Bringing the Web up to Speed with WebAssembly ( ＊＊ Distigwish ＊＊ )
@@ -146,12 +151,13 @@
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1534.JPG)
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1535.JPG)
 
+- TODO
+
 ## Functional Programming
 ### Compiling without continuations (＊＊ Distigwish ＊＊)
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1538.JPG)
 
 ### FunTAL: Reasonably Mixing a Functional Language with Assembly
-
 
 ### HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1539.JPG)
@@ -166,8 +172,14 @@
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1543.JPG)
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1544.JPG)
 
+- 既存のC++11の規約とPower PC、ARMの命令セットだと、正しく実装されていないメモリのconsistency実装がある。
+- 新しいRC++11規約を作ってうまく問題を乗り越えた。
+
 ### ming Undefined Behavior in LLVM
 [short slide](https://github.com/keisuke-umezawa/pldi2017/blob/master/image/IMG_1545.JPG)
+
+- Undefined という変数があるが、現状の規約だとconsistencyではない。
+- freezeという関数を作って問題に対処した。
 
 ## Verified Computation
 ### A Formally Verified Compiler for Lustre
